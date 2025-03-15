@@ -1,5 +1,5 @@
 # Hola, mi nombre es Francisco Peix 👋
-### University student in data science (Uiversity of Buenos Aires)
+### University student in Data Science (Uiversity of Buenos Aires)
 
 Soy estudiante universitario en Ciencias de Datos desde el 2023. 
 
